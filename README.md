@@ -11,8 +11,7 @@ The code is fully commented and it should be easy to add/remove assets as desire
 ![BTC Demo](/images/btc_demo.jpg?raw=true "BTC Demo")
 ![Stellar Demo](/images/xlm_demo.jpg?raw=true "Stellar Demo")
 ![ETH Demo](/images/eth_demo.jpg?raw=true "ETH Demo")
-![Apple Demo](/images/appl_demo.jpg?raw=true "Apple Demo")
-![Tesla Demo](/images/tsla_demo.jpg?raw=true "Tesla Demo")
+
 
 ## License (MIT)
 Copyright (c) 2021 Conor Walsh 
